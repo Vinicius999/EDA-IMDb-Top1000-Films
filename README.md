@@ -29,6 +29,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
     </a>
 </p>
+
+
 ## Projeto
 
 <h5 align="center"> &#128679; Projeto &#128640; em construção... &#128679; </h5>
