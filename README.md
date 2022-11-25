@@ -6,9 +6,7 @@
     <a href="##Tecnologias">Tecnologias</a> |
     <a href="##Projeto">Projeto</a> 
 </p>
-
-
-<h4 align="center"> &#128679; Projeto &#128640; em construção... &#128679; </h4>
+---
 
  ## Autores
 
@@ -22,22 +20,27 @@
 
 - [Kaio Sinimbu](https://github.com/kaioforte)
 
+---
+
 ## Tecnologias
 
 <p style='margin: 16px 4px 32px;'>
-	<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
-    </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Vini-python" width="40" height="40" />
     </a>
+	<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
+    </a>
 </p>
 
-
-
-
-
+---
 
 ## Projeto
 
-<h5 align="center"> &#128679; Projeto &#128640; em construção... &#128679; </h5>
+##### Análise Exploratória de Dados - IMDb - TOP1000 Filmes
+
+<p style='margin: 16px 4px 32px;'>
+    <a href="https://github.com/Vinicius999/EDA-IMDb-Top1000-Films/blob/main/Projeto_TopFilmes.ipynb" target="_blank" rel="noreferrer">
+        <img src="https://github.com/Vinicius999/EDA-IMDb-Top1000-Films/blob/main/images/IMDb_Header_image.jpg" width="120" height="40" />
+    </a>
+</p>
