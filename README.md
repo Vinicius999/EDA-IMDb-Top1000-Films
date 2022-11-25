@@ -6,7 +6,9 @@
     <a href="##Tecnologias">Tecnologias</a> |
     <a href="##Projeto">Projeto</a> 
 </p>
----
+
+
+<br>
 
  ## Autores
 
@@ -36,6 +38,8 @@
 ---
 
 ## Projeto
+
+<h5> </h5>
 
 ##### Análise Exploratória de Dados - IMDb - TOP1000 Filmes
 
