@@ -6,21 +6,19 @@
     <a href="##Tecnologias">Tecnologias</a> |
     <a href="##Projeto">Projeto</a> 
 </p>
-
+<br>
 
 ---
 
  ## Autores
 
 - [Antonio Leandro Martins Candido](https://github.com/antoniolmcandido)
-
 - [Augusto Vinicius da Silva](https://github.com/Vinicius999)
-
 - [Deivid Gabriel](https://github.com/Fukubi) 
-
 - [Hugo Rafael Freitas Negrão](https://github.com/hugonegrao) 
-
 - [Kaio Sinimbu](https://github.com/kaioforte)
+
+<br>
 
 ---
 
@@ -34,6 +32,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
     </a>
 </p>
+<br>
+
 
 ---
 
