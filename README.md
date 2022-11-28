@@ -1,3 +1,7 @@
+<p>
+    <img src="https://github.com/Vinicius999/EDA-IMDb-Top1000-Films/blob/main/images/IMDb_Header_image.jpg" width="240" height="80" />
+</p>
+
 <h1 align="center">  EDA - IMDb Top 1000 Filmes </h1>
 
 <p align="center">Análise Exploratória de Dados dos Top 1000 filmes no IMDB até 2020, desenvolvida pelo <strong>Grupo 5</strong> para a disciplina de Técnicas de Programação I da Formação de Pyhton e Dados - Ada<p>
@@ -39,12 +43,14 @@
 
 ## Projeto
 
-<h5> </h5>
-
-##### Análise Exploratória de Dados - IMDb - TOP1000 Filmes
-
+<div>
+    <a href="https://github.com/Vinicius999/EDA-IMDb-Top1000-Films/blob/main/Projeto_TopFilmes.ipynb">
+        <h5>
+            Análise Exploratória de Dados - IMDb Top1000 Filmes
+        </h5>
+    </a>
 <p style='margin: 16px 4px 32px;'>
-    <a href="https://github.com/Vinicius999/EDA-IMDb-Top1000-Films/blob/main/Projeto_TopFilmes.ipynb" target="_blank" rel="noreferrer">
-        <img src="https://github.com/Vinicius999/EDA-IMDb-Top1000-Films/blob/main/images/IMDb_Header_image.jpg" width="240" height="80" />
+	<a href="https://github.com/Vinicius999/EDA-IMDb-Top1000-Films/blob/main/Projeto_TopFilmes.ipynb" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Vinicius999/EDA-IMDb-Top1000-Films/blob/main/images/IMDb_Header_image.jpg" width="240" height="80" />
     </a>
 </p>
