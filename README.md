@@ -1,6 +1,7 @@
 <p>
-    <img src="https://github.com/Vinicius999/EDA-IMDb-Top1000-Films/blob/main/images/IMDb_Header_image.jpg" width="240" height="80" />
+    <img src="https://github.com/Vinicius999/EDA-IMDb-Top1000-Films/blob/main/images/IMDb_Header_image.jpg"/>
 </p>
+
 
 <h1 align="center">  EDA - IMDb Top 1000 Filmes </h1>
 
@@ -54,3 +55,4 @@
     <img src="https://github.com/Vinicius999/EDA-IMDb-Top1000-Films/blob/main/images/IMDb_Header_image.jpg" width="240" height="80" />
     </a>
 </p>
+
