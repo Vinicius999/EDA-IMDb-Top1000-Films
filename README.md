@@ -50,9 +50,10 @@
             Análise Exploratória de Dados - IMDb Top1000 Filmes
         </h5>
     </a>
-<p style='margin: 16px 4px 32px;'>
-	<a href="https://github.com/Vinicius999/EDA-IMDb-Top1000-Films/blob/main/Projeto_TopFilmes.ipynb" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Vinicius999/EDA-IMDb-Top1000-Films/blob/main/images/IMDb_Header_image.jpg" width="240" height="80" />
-    </a>
-</p>
-
+    
+    <p style='margin: 16px 4px 32px;'>
+        <a href="https://github.com/Vinicius999/EDA-IMDb-Top1000-Films/blob/main/Projeto_TopFilmes.ipynb" target="_blank" rel="noreferrer">
+        <img src="https://github.com/Vinicius999/EDA-IMDb-Top1000-Films/blob/main/images/IMDb_Header_image.jpg" width="240" height="80" />
+        </a>
+    </p>
+</div>
